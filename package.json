@@ -1,0 +1,6 @@
+{
+  "name": "hc-sr04",
+  "version": "1.0.0",
+  "description": "Kaluma library for HC-SR04 ultrasonic distance measurement module",
+  "main": "index.js"
+}
